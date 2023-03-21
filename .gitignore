@@ -8,11 +8,8 @@ out/*
 
 # gradle
 .gradle/
-!gradle/wrapper
-!gradle/wrapper/*
 build/
 */build/
-!gradlew*
 */tokens/
 tokens/
 .DS_Store
@@ -34,7 +31,6 @@ DS_Store
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
