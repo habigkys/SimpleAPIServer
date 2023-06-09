@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: simple-api-server
-          image: 872489838303.dkr.ecr.ap-northeast-2.amazonaws.com/simple_api_server:latest
+          image: 872489838303.dkr.ecr.ap-northeast-2.amazonaws.com/simple-api-server:latest
           ports:
             - containerPort: 8080
           resources:
